@@ -126,3 +126,6 @@ p.card-description {
 .card:first-child {
 	border-top: 0.5px solid black;	
 }
+ul {
+	min-height: 150px;
+}
